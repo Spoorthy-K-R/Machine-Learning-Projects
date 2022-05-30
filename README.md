@@ -1,1 +1,1 @@
-Given the features and the target, building a Machine Learning Regression model that can predict the price of the diamond from a given set of features.
+This repository contains the projects that were done as a part of UE19EC353 Machine Learning Hands-on session.
